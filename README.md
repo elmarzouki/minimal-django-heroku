@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Clone this repository: `https://github.com/iSuperMostafa/minimal-django-heroku-skeleton.git`
+Clone this repository: `git clone https://github.com/iSuperMostafa/minimal-django-heroku-skeleton.git`
 
 ## Setup the environment
 
