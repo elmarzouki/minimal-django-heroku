@@ -1,10 +1,10 @@
-# minimal-django-heroku-skeleton
+# minimal-django-heroku
 
  A lightweight Django server ready for deployment on Heroku.
 
 ## Getting Started
 
-Clone this repository: `git clone https://github.com/iSuperMostafa/minimal-django-heroku-skeleton.git`
+Clone this repository: `git clone git@github.com:iSuperMostafa/minimal-django-heroku.git`
 
 ## Setup the environment
 
